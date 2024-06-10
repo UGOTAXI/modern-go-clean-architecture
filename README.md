@@ -1,0 +1,2 @@
+# modern-go-clean-architecture
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e7cbebf67a124a7fb6e21926ec624495)](https://app.codacy.com/gh/UGOTAXI/modern-go-clean-architecture?utm_source=github.com&utm_medium=referral&utm_content=UGOTAXI/modern-go-clean-architecture&utm_campaign=Badge_Grade)
